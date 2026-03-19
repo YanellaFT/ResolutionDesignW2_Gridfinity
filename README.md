@@ -1,5 +1,9 @@
 # ResolutionDesignW2_Gridfinity
 
+Made my own gridfinity during Resolution Design Week 2!
+
+Made on Onshape.
+
 ### Duck
 1x2 boxes (1 = 41.5mm)
 
